@@ -1,8 +1,7 @@
 # ic-06
 ic-06 - JavaScript Part 2
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
-
+Link to GitHub Pages: [HERE](https://ds4200-s23-class.github.io/ic-06-patrick-dean/)
 ## Purpose
 
 The purpose of this assignment is to practice creating an interactive webpage with JavaScript.  
